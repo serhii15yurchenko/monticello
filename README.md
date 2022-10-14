@@ -1,4 +1,5 @@
 # monticello
+Макет: https://www.figma.com/file/wqlFV9VWa3oxnvvexwAy4V/Exam%232?node-id=0%3A1
 
 Вимоги - Технічне завдання:
 Додати :hover, :focus ефекти для інтерактивних елементів
