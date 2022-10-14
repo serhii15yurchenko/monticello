@@ -1,0 +1,10 @@
+.news {
+    .wrapper {
+        max-width: 768px;
+        margin: 0 auto;
+
+        .slick-dots li:not(:last-child) {
+            margin-right: 40px;
+        }
+    }
+}

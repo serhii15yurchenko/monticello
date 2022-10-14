@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    line-height: 1;
+    scroll-behavior: smooth;
+    transition: all 0.2s ease;
+
+};
+
+body {
+  overflow-x: hidden;
+}
+
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+    padding: 0 15px;
+};
+
+a:active,
+a:hover,  
+a {
+  text-decoration: none;
+  color: white;
+};
+
+.no-scroll {
+  overflow: hidden;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+  clip: rect(0 0 0 0);
+  overflow: hidden;
+}
