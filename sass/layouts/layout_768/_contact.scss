@@ -61,6 +61,7 @@
             }
             .form {
                 min-width: 310px;
+                width: unset;
                 input:focus {
                     outline:none;
                 }

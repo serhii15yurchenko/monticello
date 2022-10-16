@@ -3,12 +3,13 @@
     line-height: 1;
     scroll-behavior: smooth;
     transition: all 0.2s ease;
+    // overflow-x: hidden;
 
 };
-
-body {
-  overflow-x: hidden;
-}
+ 
+// body {
+//   overflow-x: hidden;
+// }
 
 .container {
     max-width: 1170px;

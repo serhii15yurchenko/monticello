@@ -30,7 +30,7 @@
             margin-right: 70px;
             margin-bottom: unset;
             .back-photo {
-                display: none;
+                display: block;
                 position: absolute;
                 z-index: -1;
                 top: -57px;
@@ -104,7 +104,7 @@
         &__images {
             margin-bottom: unset;
             .back-photo {
-                display: none;
+                display: block;
                 position: absolute;
                 z-index: -1;
                 top: -57px;

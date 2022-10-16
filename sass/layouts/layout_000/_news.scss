@@ -57,17 +57,17 @@
                     h4 {
                         font-family: $fontMontserrat;
                         font-weight: 700;
-                        font-size: 22px;
+                        font-size: 20px;
                         color: #2C4058;
                         margin-bottom: 15px;
-                        line-height: 27px;
+                        line-height: 25px;
                     }
                     p {
                         font-family: $fontOpenSans;
-                        font-size: 18px;
+                        font-size: 15px;
                         color: #2C4058;
-                        margin-bottom: 39px;
-                        line-height: 25px;
+                        margin-bottom: 32px;
+                        line-height: 22px;
                     }
                 }
 
@@ -85,14 +85,14 @@
                         flex-direction: column;
                         .name {
                             font-family: $fontMontserrat;
-                            font-size: 18px;
+                            font-size: 16px;
                             text-transform: uppercase;
                             color: #2C4058;
                             margin-bottom: 6px;
                         }
                         .date {
                             font-family: $fontMontserrat;
-                            font-size: 14px;
+                            font-size: 12px;
                             color: #55B7FF;
                         }
     
